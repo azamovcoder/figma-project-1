@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap');
+
+.title{
+    text-align: center;
+}
+.title-h1{
+    font-size:40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.title-p{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.title--btn-1{
+    width: 170px;
+    height: 40px;
+    border-radius: 30px;
+    color: aliceblue;
+    background-color: rgb(10, 10, 250);
+    border-color: blue;
+    
+}
+.title--btn-2{
+    width: 170px;
+    height: 40px;
+    border-radius: 30px;
+    color: rgb(10, 10, 250);
+    background-color: white;
+    border-color: white;
+}
+.section{
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+}
+.about-h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.about-p{
+    font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+}
+.section{
+    text-align: center;
+}
+
+.frame-beauty{
+    font-family:'Roboto', sans-serif; 
+    width: 500px;
+    height:200px;
+    background-color: #17002E;;
+    border-radius: 8px 10px;
+}
+.beauty-h3{
+    color: aliceblue;
+}
+.beauty-p{
+    color: aliceblue;
+}
+
+.frame-airlane {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    height: 200px;
+    background-color: #17002E;
+    ;
+    border-radius: 8px 10px;
+}
+
+.airlane-h3 {
+    color: aliceblue;
+}
+
+.airlane-p {
+    color: aliceblue;
+}
+
+.frame-fashion {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    height: 200px;
+    background-color: #17002E;
+    ;
+    border-radius: 8px 10px;
+}
+.fashion-h3 {
+    color: aliceblue;
+}
+
+.fashion-p {
+    color: aliceblue;
+}
+
+.frame-travel {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    height: 200px;
+    background-color: #17002E;
+    ;
+    border-radius: 8px 10px;
+}
+
+.travel-h3 {
+    color: aliceblue;
+}
+
+.travel-p {
+    color: aliceblue;
+}
+
+.frame-online {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    height: 200px;
+    background-color: #17002E;
+    ;
+    border-radius: 8px 10px;
+}
+
+.online-h3 {
+    color: aliceblue;
+}
+
+.online-p {
+    color: aliceblue;
+}
+
+
+.frame-luxury {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    height: 200px;
+    background-color: #17002E;
+    ;
+    border-radius: 8px 10px;
+}
+
+.luxury-h3 {
+    color: aliceblue;
+}
+
+.luxury-p {
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .frame{
+   text-align: center;
+} */
+    
